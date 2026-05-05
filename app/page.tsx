@@ -24,7 +24,7 @@ const works = [
 const experience = [
   ["Quanta Computer Inc.", "Software Engineer", "2026 — Present"],
   ["CSU East Bay", "Machine Learning Developer", "2024 — 2025"],
-  ["UL Solutions", "Wireless Technical Intern", "2024"],
+  ["UL Solutions", "Wireless Technical Intern", "2024 — 2024"],
   ["BISAG", "Machine Learning Engineer", "2020 — 2022"],
   ["VMukti Solutions", "Software Engineer", "2019 — 2020"]
 ];
