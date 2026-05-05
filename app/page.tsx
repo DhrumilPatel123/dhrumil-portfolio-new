@@ -9,7 +9,7 @@ const profile = {
   line: "SDE · AI Systems · Technical Delivery",
   location: "San Francisco Bay Area",
   image: "/profile.jpg",
-  email: "your.email@example.com",
+  email: "dhrumilpatel358@gmail.com",
   linkedin: "https://www.linkedin.com/in/dhrumil-patel-408297190/",
   resume: "/resume.pdf"
 };
